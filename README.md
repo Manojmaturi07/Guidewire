@@ -101,7 +101,8 @@ Deliverables
 - Source code (this repository)
 - README documentation
 - Demo video
-- Final presentation
 
 Conclusion
 This platform provides a scalable, automated, and AI-driven solution to protect gig workers from income loss, ensuring financial stability in uncertain conditions.
+Explanation Video
+  https://youtube.com/shorts/GkdJxZTBu9A?feature=share
