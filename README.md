@@ -76,10 +76,10 @@ Features
 
 Tech Stack
 - Frontend: React
-- Backend: Java (Spring Boot) / Node.js
+- Backend: Java (Spring Boot) 
 - AI/ML: Python (Scikit-learn / TensorFlow)
 - APIs: Weather API, Traffic API (mock/real)
-- Payments: Razorpay / Stripe (sandbox)
+- Payments: Razorpay
 
 Dashboard
 For Users:
